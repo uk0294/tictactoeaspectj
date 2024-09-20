@@ -1,0 +1,8 @@
+<aspectj>
+    <aspects>
+        <aspect name="RefereeAspect"/>
+    </aspects>
+    <pointcut>
+        <include within="TicTacToe"/>
+    </pointcut>
+</aspectj>

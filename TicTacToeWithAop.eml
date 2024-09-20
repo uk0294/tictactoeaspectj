@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="aspectj.aspectjrt" value="project"/>
+		<level name="aspectj.aspectjweaver" value="project"/>
+		<level name="aspectj.aspectjtools" value="project"/>
+	</levels>
+</component>
